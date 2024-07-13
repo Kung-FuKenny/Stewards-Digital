@@ -1,4 +1,4 @@
-import Logo from '@/assets/icon.png';
+import Logo from '@/assets/icon.svg';
 import NavBar from './NavBar';
 import { useState, useEffect } from 'react';
 import { SelectedPage } from '@/Components/Shared/Types';
