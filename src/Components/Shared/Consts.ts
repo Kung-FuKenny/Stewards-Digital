@@ -34,7 +34,7 @@ import user2 from '@/assets/users/user2.jpg';
 import user3 from '@/assets/users/user3.jpg';
 import user4 from '@/assets/users/user4.jpg';
 
-import logo from '@/assets/logo.png';
+import logo from '@/assets/icon.png';
 
 export const links = ['Home', 'Partners', 'Services', 'Reviews'];
 
