@@ -1,9 +1,9 @@
 // src/Components/Doctors/Doctors.tsx
-import { DoctorsData } from '@/Components/Shared/Consts';
+import { DoctorsData } from '../../../Components/Shared/Consts.ts';
 import SectionWrapper from '../SectionWrapper';
 import Partner from './Partner';
 import Slider from 'react-slick';
-import bannerAnimation from '@/assets/about.webm'; // Import your WebM animation file
+import bannerAnimation from '../../../Assets/about.webm'; // Import your WebM animation file
 
 const Doctors = () => {
   const settings = {

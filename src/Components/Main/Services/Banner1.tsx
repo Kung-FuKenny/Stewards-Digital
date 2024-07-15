@@ -1,5 +1,5 @@
-import { Banner1Data } from '@/Components/Shared/Consts';
-import ListItem from './ListItem';
+import { Banner1Data } from '../../../Components/Shared/Consts.ts';
+import ListItem from './ListItem.tsx';
 
 const Banner1 = () => {
   return (

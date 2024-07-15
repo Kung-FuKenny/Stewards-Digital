@@ -1,7 +1,7 @@
-import Logo from '@/assets/icon.svg';
-import NavBar from './NavBar';
+import Logo from '../../Assets/icon.svg';
+import NavBar from './NavBar.tsx';
 import { useState, useEffect } from 'react';
-import { SelectedPage } from '@/Components/Shared/Types';
+import { SelectedPage } from '../../Components/Shared/Types.ts';
 
 const Header = () => {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(

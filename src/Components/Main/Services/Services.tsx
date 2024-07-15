@@ -1,11 +1,11 @@
-import { ServicesData } from '@/Components/Shared/Consts';
-import Button from '@/Components/UI/Button';
+import { ServicesData } from '../../../Components/Shared/Consts.ts';
+import Button from '../../../Components/UI/Button.tsx';
 import Service from './Service';
 import { useState } from 'react';
-import { SelectedService } from '@/Components/Shared/Types';
-import ListItem from './ListItem';
-import Banner1 from './Banner1';
-import SectionWrapper from '../SectionWrapper';
+import { SelectedService } from '../../../Components/Shared/Types.ts';
+import ListItem from './ListItem.tsx';
+import Banner1 from './Banner1.tsx';
+import SectionWrapper from '../SectionWrapper.tsx';
 
 const Services = () => {
   const [SelectService, setSelectService] = useState<SelectedService>(

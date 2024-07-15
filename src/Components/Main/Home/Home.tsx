@@ -1,7 +1,7 @@
-import Button from '@/Components/UI/Button';
-import DescNums from './DescNums';
-import SectionWrapper from '../SectionWrapper';
-import animationVideo from '@/assets/hero.webm'; // Import your WebM animation file
+import Button from '../../../Components/UI/Button.tsx';
+import DescNums from './DescNums.tsx';
+import SectionWrapper from '../SectionWrapper.tsx';
+import animationVideo from '../../../Assets/hero.webm'; // Import your WebM animation file
 
 const Home = () => {
   return (

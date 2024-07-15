@@ -1,40 +1,40 @@
-import marketing from '@/assets/Icons/digital-marketing.png';
-import designs from '@/assets/Icons/graphic-design.png';
-import content from '@/assets/Icons/content-creation.png';
-import ai from '@/assets/Icons/ai.png';
-import interiors from '@/assets/Icons/interior-decor.png';
-import branding from '@/assets/Icons/brand-strategy.png';
-import analytics from '@/assets/Icons/analytics.png';
-import consulting from '@/assets/Icons/project-management.png';
-import workshops from '@/assets/Icons/training.png';
+import marketing from '../../Assets/Icons/digital-marketing.png';
+import designs from '../../Assets/Icons/graphic-design.png';
+import content from '../../Assets/Icons/content-creation.png';
+import ai from '../../Assets/Icons/ai.png';
+import interiors from '../../Assets/Icons/interior-decor.png';
+import branding from '../../Assets/Icons/brand-strategy.png';
+import analytics from '../../Assets/Icons/analytics.png';
+import consulting from '../../Assets/Icons/project-management.png';
+import workshops from '../../Assets/Icons/training.png';
 
 
-//import Banner2 from '@/assets/Banner2.png';
+//import Banner2 from '../../Assets/';
 
-import videoSrc from '@/assets/projects.mp4'; 
+import videoSrc from '../../Assets/projects.mp4'; 
 
-import doc1 from '@/assets/Doctors/alphaomega.png';
-import doc2 from '@/assets/Doctors/amani.png';
-import doc3 from '@/assets/Doctors/emits.png';
-import doc4 from '@/assets/Doctors/ep.png';
-import doc5 from '@/assets/Doctors/fullgospel.png';
-import doc6 from '@/assets/Doctors/isarail.png';
-import doc7 from '@/assets/Doctors/jwsa.png';
-import doc8 from '@/assets/Doctors/kmm.png';
-import doc9 from '@/assets/Doctors/kwhy7.png';
-import doc10 from '@/assets/Doctors/moodleys.png';
-import doc11 from '@/assets/Doctors/stewards.png';
-import doc12 from '@/assets/Doctors/tellasista.png';
-import doc13 from '@/assets/Doctors/viva.png';
-import doc14 from '@/assets/Doctors/wmca.png';
+import doc1 from '../../Assets/Doctors/alphaomega.png';
+import doc2 from '../../Assets/Doctors/amani.png';
+import doc3 from '../../Assets/Doctors/emits.png';
+import doc4 from '../../Assets/Doctors/ep.png';
+import doc5 from '../../Assets/Doctors/fullgospel.png';
+import doc6 from '../../Assets/Doctors/isarail.png';
+import doc7 from '../../Assets/Doctors/jwsa.png';
+import doc8 from '../../Assets/Doctors/kmm.png';
+import doc9 from '../../Assets/Doctors/kwhy7.png';
+import doc10 from '../../Assets/Doctors/moodleys.png';
+import doc11 from '../../Assets/Doctors/stewards.png';
+import doc12 from '../../Assets/Doctors/tellasista.png';
+import doc13 from '../../Assets/Doctors/viva.png';
+import doc14 from '../../Assets/Doctors/wmca.png';
 
 
-import user1 from '@/assets/users/user1.jpg';
-import user2 from '@/assets/users/user2.jpg';
-import user3 from '@/assets/users/user3.jpg';
-import user4 from '@/assets/users/user4.jpg';
+import user1 from '../../Assets/Users/user1.jpg';
+import user2 from '../../Assets/Users/user2.jpg';
+import user3 from '../../Assets/Users/user3.jpg';
+import user4 from '../../Assets/Users/user4.jpg';
 
-import logo from '@/assets/icon.svg';
+import logo from '../../Assets/icon.svg';
 
 export const links = ['Home', 'Partners', 'Services', 'Reviews'];
 

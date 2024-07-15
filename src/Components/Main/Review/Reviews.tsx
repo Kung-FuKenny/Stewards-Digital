@@ -1,4 +1,4 @@
-import { FeedbackData } from '@/Components/Shared/Consts';
+import { FeedbackData } from '../../../Components/Shared/Consts.ts';
 import SectionWrapper from '../SectionWrapper';
 import Review from './Review';
 

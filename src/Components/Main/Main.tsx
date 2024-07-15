@@ -1,7 +1,7 @@
-import Home from '@/Components/Main/Home/Home';
-import Services from './Services/Services';
-import Doctors from './Doctors/Partners';
-import Reviews from './Review/Reviews';
+import Home from '../../Components/Main/Home/Home.tsx';
+import Services from '../../Components/Main/Services/Services';
+import Doctors from '../../Components/Main/Doctors/Partners';
+import Reviews from '../../Components/Main/Review/Reviews';
 
 const Main = () => {
   return (
